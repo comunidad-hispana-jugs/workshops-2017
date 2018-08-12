@@ -18,7 +18,7 @@ A continuación se relacionan los encuentros en el año 2017
 
 **Speakers:**
 
-* xx [(@_deors)](https://twitter.com/xx): xx.
+* xx [(@xxxx)](https://twitter.com/xx): xx.
 
 
 **Slides:** 
